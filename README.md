@@ -38,7 +38,7 @@ Welcome to the **Alpha Navigator** repository! This project demonstrates how to 
 ### Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/alpha-navigator.git
+git clone https://github.com/alphatechlogics/Alpha-navigator.git
 cd alpha-navigator
 ```
 
