@@ -2,6 +2,8 @@
 
 Welcome to the **Alpha Navigator** repository! This project demonstrates how to build a specialized conversational travel agent using **LangChain**, **OpenAI GPT**, and the **Tavily** search tool. The agent is deployed as a beautiful and interactive **Streamlit** web application.
 
+![](https://raw.github.com/alphatechlogics/Alpha-navigator/ba420df900b78c516a450cd851270c7e7703d2f0/Screenshot%202025-06-17%20222218.png)
+
 ## ✨ Features
 
 - **OpenAI GPT Integration**: Powered by a cutting-edge GPT model tailored for travel queries.
